@@ -17,9 +17,9 @@
 ### 🔝 Top Contributed Repos
 
 #### Sportik group
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.Desktop&theme=dark&cache_seconds=1)](https://github.com/Yaroslav-Yuriichuk/Sportik.Desktop)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.Backend&theme=dark&cache_seconds=1)](https://github.com/Yaroslav-Yuriichuk/Sportik.Backend)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.DnsUtility&theme=dark&cache_seconds=1)](https://github.com/Yaroslav-Yuriichuk/Sportik.DnsUtility)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.Desktop&theme=dark&cache_seconds=3600)](https://github.com/Yaroslav-Yuriichuk/Sportik.Desktop)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.Backend&theme=dark&cache_seconds=3600)](https://github.com/Yaroslav-Yuriichuk/Sportik.Backend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=Sportik.DnsUtility&theme=dark&cache_seconds=3600)](https://github.com/Yaroslav-Yuriichuk/Sportik.DnsUtility)
 
 #### Unity group
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=VR_Sculpture&theme=dark&cache_seconds=1)](https://github.com/Yaroslav-Yuriichuk/VR_Sculpture)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=VR_Sculpture&theme=dark&cache_seconds=3600)](https://github.com/Yaroslav-Yuriichuk/VR_Sculpture)
