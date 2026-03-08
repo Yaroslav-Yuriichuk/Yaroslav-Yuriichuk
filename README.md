@@ -11,7 +11,7 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -24,3 +24,6 @@
 
 #### Unity group
 [![Repo Card](https://github-readme-stats-three-lemon-65.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=VR_Sculpture&theme=dark&cache_seconds=60)](https://github.com/Yaroslav-Yuriichuk/VR_Sculpture)
+
+### Python group
+[![Repo Card](https://github-readme-stats-three-lemon-65.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=bottles_solver&theme=dark&cache_seconds=60)](https://github.com/Yaroslav-Yuriichuk/bottles_solver)
