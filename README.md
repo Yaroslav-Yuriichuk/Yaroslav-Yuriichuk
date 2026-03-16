@@ -25,5 +25,5 @@
 #### Unity group
 [![Repo Card](https://github-readme-stats-three-lemon-65.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=VR_Sculpture&theme=dark&cache_seconds=60)](https://github.com/Yaroslav-Yuriichuk/VR_Sculpture)
 
-### Python group
+#### Python group
 [![Repo Card](https://github-readme-stats-three-lemon-65.vercel.app/api/pin/?username=Yaroslav-Yuriichuk&repo=bottles_solver&theme=dark&cache_seconds=60)](https://github.com/Yaroslav-Yuriichuk/bottles_solver)
